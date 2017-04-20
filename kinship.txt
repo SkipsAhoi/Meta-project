@@ -1,0 +1,400 @@
+Subject	DAM (ISIS)	SIRE (ISIS)
+A185F	unknown	unknown
+A237G	unknown	unknown
+ABBEY	unknown	unknown
+ACE	HENRYET (2602)	MWELU (3866)
+ADONIS	PRUDE (unk)	LES (unk)
+AGATHA	BASHFUL (1768)	WILLY (1767)
+AHNI	DAHPI (5130)	REEUH (5294)
+AJAX	unknown	unknown
+AKIMEL	SABRINA (2167)	SAMMY (2036)
+ALEX	GERTRUDE (2201)	MOOSE (2045)
+Alison	unknown	unknown
+ALLIE	LACEY (3915)	PERRY (1549)
+Allison	unknown	unknown
+ALPHA	TOPSEY (3745)	BABU (2946)
+Alvin	unknown	unknown
+AMY	MOLLIE (0235)	BIG DADDY (9698)
+ANGEL	unknown	unknown
+ANGIE	unknown	unknown
+ANN	unknown	unknown
+Aphrodite	unknown	unknown
+APRIL	POLLY (1756)	SHADOW (1755)
+ARIEL	GERTRUDE (2201)	DALTON 1063
+ARMOND	SHUSHU (unk)	BOY (2039)
+ASHLEY	BETH (3001)	ROGER (2246)
+AUSTIN	RHODA (1841)	GREMLIN (2601)
+AXEL	MAE (2242)	unknown
+AYLA	AGATHA (4141)	unknown
+BABU	unknown	unknown
+BAHN	TANG (2169)	STU (unk)
+Bam Bam I	unknown	unknown
+BANDIT	unknown	unknown
+BANZAI	ABBEY (2105)	unknown
+BARASH	unknown	unknown
+BARBIE	BETH (3001)	unknown
+BARNEY	HENRYET (2602)	KING (2435)
+BART	APRIL (4205)	CORDOVA (2763)
+BASHFUL	unknown	unknown
+Bea	unknown	unknown
+BECCA	BETSY (1856)	unknown
+BELINDA	unknown	unknown
+BELLA	unknown	unknown
+BERNADETTE	APHRODITE (unk)	WALTER (unk)
+BERNIE	unknown	unknown
+BERTHA	ROSIE (3459)	unknown
+BETA	ALPHA (5066)	unknown
+BETH	unknown	unknown
+BETSY	unknown	unknown
+BETTY	BIDO (1731)	ROCK (1730)
+BIDO	unknown	unknown
+BIG_DADDY	unknown	unknown
+BIKIRA	BIDO (1731)	LARRY 7760
+BILLY	BETTY (3440)	PUNCH (4647)
+BISCHK	APHRODITE (unk)	SIMBA (2724)
+BLUE	HENRYET (2602)	ROGER (2246)
+BO	BASHFUL (1768)	KUDZU (4639)
+BOB	unknown	unknown
+BOY	unknown	unknown
+BRADLEY	STELLA 834	LOU 478
+BRENDA	unknown	unknown
+BRENT	unknown	unknown
+BRIA	POLLY (1756)	unknown
+Brownie	unknown	unknown
+BRUCE	unknown	unknown
+BUDDA	unknown	unknown
+BUSTER	ROSIE (3459)	ROGER (2246)
+BUTCH	ALISON 833	SHAKEY 970
+C.J.	unknown	unknown
+CANDI	MARY (1855)	PERRY (1549)
+CASSIE	GLENDA (2108)	CONAN (3156)
+CATHERINE	unknown	unknown
+CAYENNE	PEPPER (2106)	BOY (2039)
+CECELIA	KELLEY (2107)	DOYLE (4721)
+CESAR	GIGI (1732)	SHADOW (1755)
+CH643	unknown	unknown
+CHECHEKUL	CHRISSY (2525)	KOBI (3020)
+CHEOPI	CATHERINE (4015)	SHOHSHON (4340))
+CHESTER	RHODA (1841)	GREMLIN (2601)
+CHICO	unknown	unknown
+CHINOOK	GIGI (1732)	SHADOW (1755)
+CHIQUITA	unknown	unknown
+CHRISSY	BEA (unk)	unknown
+CHUHIA	QUINCY (2721)	COCOA (unk)
+CLARA	MARY (1855)	unknown
+COCHISE	GERTRUDE (2201)	MOOSE (2045)
+COCO	RHODA (1841)	EDSEL (2762)
+Cocoa	unknown	unknown
+CODY	BERNIE (1929)	JOEY (3033)
+CONAN	unknown	unknown
+Conrad CH201	unknown	unknown
+COOKIE	unknown	unknown
+CORDOVA	unknown	unknown
+CRYSTAL	BELLA (3733)	AJAX (3912)
+CYBILL	KERSTIN (4363)	ERIC (4630)
+DAHPI	GINA (unk)	SIMBA (2724)
+DAISY	DIXIE (2109)	unknown
+Dalton	unknown	unknown
+Dave	unknown	unknown
+DEANNA	ALLISON (unk)	DAVE (unk)
+DEBBIE	unknown	unknown
+DEEDEE	DIXIE (2109)	unknown
+DELTA	GIGI (1732)	SHADOW (1755)
+DERMA	unknown	unknown
+DERRICK	unknown	unknown
+DESI	unknown	unknown
+DIXIE	unknown	unknown
+DODA	LULU - PFA (unk)	Conrad CH201
+DOYLE	DERMA (1703)	PERRY (1549)
+DUKE	unknown	unknown
+DUKE2	TINKER (4751)	unknown
+EDSEL	unknown	unknown
+EESHA	LULU - PFA (unk)	CH643 (unk)
+EHSTO	PATTI (2371)	KUKUI (5035)
+ELAINE	unknown	unknown
+EMILY	ABBEY (2105)	CONAN (3156)
+EMMA	CECELIA (5721)	unknown
+ENIGA	HARRIET (unk)	KOBI (3020)
+ERIC	BELINDA (1718)	unknown
+FECHNER	unknown	unknown
+FIAT	unknown	unknown
+FLINT	JANE (2830)	BIG DADDY (9698)
+FRED	HENRYET (2602)	ROGER (2246)
+Frieda	unknown	unknown
+GAGE	SOPHIE (5442)	unknown
+GAYGOS	JAYME (4047)	JO MENDI (unk)
+GEORGE	unknown	unknown
+Geronimo	unknown	unknown
+GERTRUDE	unknown	unknown
+GIGI	unknown	unknown
+GIMP	unknown	unknown
+Gina	unknown	unknown
+GINGER	unknown	unknown
+GIRL	unknown	unknown
+GISOKI	JENNY-PFA (unk)	SAMMY (2036)
+GLENDA	unknown	unknown
+GRACIE	LACEY (3915)	PERRY (1549)
+GRANDPA	unknown	unknown
+GREMLIN	unknown	unknown
+GRETEL	unknown	unknown
+GRINCH	GIRL (9700)	PUG (9694)
+GUS	ROSALYN (2304)	LYNUS (2202)
+HAAKID	ANN (2722)	KOBI (3020)
+HANNAH	MAE (2242)	CORDOVA (2763)
+HAPPY	unknown	unknown
+HAPPY P	unknown	unknown
+Harriet	unknown	unknown
+HELGA	unknown	unknown
+HENRYET	unknown	unknown
+HOBBES	HENRYET (2602)	MWELU (3866)
+HODARI	JUDY (2170)	KUDZU (4639)
+HONEY	HANNAH (5691)	unknown
+HOOT	GLENDA (2108)	CONAN (3156)
+HUEY	MARY (1855)	unknown
+HUG	EESHA (5229)	HAAKID (5797)
+HUHKALIG	KISSEY (unk)	BAM BAM I (unk)
+HUHNI	BERNADETTE (3867)	KUKUI (5035)
+ID196	unknown	unknown
+ID834	unknown	unknown
+IDANI	CHRISSY (2525)	GERONIMO (unk)
+IKE	TINA (5210)	unknown
+INDIA	HENRYET (2602)	MWELU (3866)
+IRIS	HENRYET (2602)	MWELU (3866)
+J.T.	BRENDA (2768)	unknown
+JACK	DERMA (1703)	unknown
+JAKE	BASHFUL (1768)	KUDZU (4639)
+JANA	DELTA (3057)	C.J. (2358)
+JANE	unknown	unknown
+JAYME	KISSEY (unk)	COCOA (unk)
+Jeb	unknown	unknown
+Jennifer	unknown	unknown
+JENNY	MAE (2242)	unknown
+Jenny-PFA	unknown	unknown
+JESSIE	DELTA (3057)	PUNCH (4647)
+JIGS	unknown	unknown
+Jo Mendi	unknown	unknown
+JOANN	SUE (unk)	BROWNIE (unk)
+JOEY	unknown	unknown
+JOSIE	JUDY (2170)	ZIPPY (2537)
+JOYCE	unknown	unknown
+JUDUMI	HAPPY - P (1407)	KOBI (3020)
+JUDY	unknown	unknown
+Julie	unknown	unknown
+JUNIE	unknown	unknown
+KAKAICHU	JENNY-PFA (unk)	PEDRO (unk)
+KALIONI	APHRODITE (unk)	WALTER (unk)
+KALLIE	FREIDA 1203	JEB 875
+KAMPANI	CHRISSY (2525)	SIMBA (2724)
+KAREEM	PEGGY (unk)	unknown
+KARIN	unknown	unknown
+KATY	POLLY (1756)	ROCK (1730)
+KAYA	CANDI (4539)	unknown
+KEHG	SABRINA (2167)	SAMMY (2036)
+KELLEY	unknown	unknown
+KEN	unknown	unknown
+KENO	ROSALYN (2304)	unknown
+KERSTIN	JULIE (unk)	RICHIE 1354
+KEVIN	unknown	unknown
+KIA	ANN (2722)	SIMBA (2724)
+KID	unknown	unknown
+KIHT	JAYME (4047)	JO MENDI (unk)
+KIJANA	GIRL (9700)	SAMSON (5063)
+KING	unknown	unknown
+Kirby	unknown	unknown
+Kissey	unknown	unknown
+KOBI	unknown	unknown
+KROG	KERSTIN (4363)	ERIC (4630)
+KUDZU	DELTA (3057)	WILLY (1767)
+KUHTA	KISSEY (unk)	COCOA (unk)
+KUKUI	TANG (2169)	GERONIMO (unk)
+KURT	unknown	unknown
+LACEY	unknown	unknown
+Larry 7760	unknown	unknown
+LAVERNE	unknown	unknown
+LEO	unknown	unknown
+LEROY	POLLY (1756)	ROCK (1730)
+Les	unknown	unknown
+LEXUS	TINA (5210)	unknown
+LOKI	LAVERNE (2244)	unknown
+LORI	DEBBIE (2633)	unknown
+Lou 478	unknown	unknown
+LUCY	BERNIE (1929)	unknown
+LULU	GLENDA (2108)	KIRBY (unk)
+Lulu-PFA	unknown	unknown
+LYLE	LULU (4510)	DOYLE (4721)
+LYNUS	unknown	unknown
+MAE	unknown	unknown
+MAGIC	DEBBIE (2633)	SAMSON (5063)
+MAHI	TANG (2169)	COCOA (unk)
+MAHSHO	MILLIE-PFA (unk)	COCOA (unk)
+MAISHPA	LULU -PFA (ukn)	OSCAR -PFA (unk)
+MANDY	GIGI (1732)	SHADOW (1755)
+MARCUS	APRIL (4205)	PACER (2957)
+MARGIE	GIRL (9700)	PUG (9694)
+MARILYN	unknown	unknown
+MARTHA	unknown	unknown
+MARTIN	MUFFIN (4345)	unknown
+MARY	unknown	unknown
+MAURICE	unknown	unknown
+MAX	unknown	unknown
+MAXI	SANDY (3153)	unknown
+MAYNARD	unknown	unknown
+MELISSA	A237G	A185F
+MICHON	BASHFUL (1768)	WILLY (1767)
+MIKE	BRENDA (2768)	unknown
+MILLIE	MANDY (5062)	unknown
+Millie-PFA	unknown	unknown
+MILONI	MILLIE-PFA (unk)	COCOA (unk)
+MISCHINI	BERNADETTE (3867)	KOBI (3020)
+MISTY	URSULA (1719)	JOEY (3033)
+MOE	NINA (4760)	unknown
+MOLLIE	unknown	unknown
+MONIQUE	MICHON (4648)	KUDZU (4639)
+MOOSE	unknown	unknown
+MR BROOKS	unknown	unknown
+MUFFIN	GIGI (1732)	SHADOW (1755)
+MWELU	GIGI (1732)	SHADOW (1755)
+NAHAGIO	HARRIET (unk)	Conrad CH201
+NAHJA	CHUHIA (4244)	SHOHSHON (4340)
+NAHKO	TANYA (2354)	KOBI (3020)
+NEPTUNE	unknown	unknown
+NERO	JUNIE (2243)	unknown
+NICK	BIDO (1731)	unknown
+NINA	PEPPER (2106)	CORDOVA (2763)
+NOWI	ANN (2722)	KOBI (3020)
+OKI	SABRINA (2167)	COCOA (unk)
+OMEGA	MARY (1855)	unknown
+OPAL	unknown	unknown
+OREO	COOKIE (3863)	LEROY (3961)
+OSCAR	ROSIE (3459)	ROGER (2246)
+Oscar -PFA	unknown	unknown
+PACER	unknown	unknown
+PAHSTIHL	TODY (2720)	Conrad CH201
+PANCAKE	ROSIE (3459)	ROGER (2246)
+PATTI	unknown	unknown
+PECOS	COOKIE (3863)	LEROY (3961)
+Pedro	unknown	unknown
+PEHGIA	ANGIE (3462)	BAM BAM I (unk)
+PELE	TINKER (4751)	LOU 478
+PEPPER	unknown	unknown
+PERRY	unknown	unknown
+PIERRE	unknown	unknown
+PIMACH	MA'ISHPA (4520)	BAHN (4523)
+PIPLIN	TODY (2720)	COCOA (unk)
+PLATO	unknown	unknown
+PLUTO	ABBEY (2105)	unknown
+PND #01	BETTY (3440)	unknown
+PND #02	PEPPER (2106)	CORDOVA (2763)
+PND #03	SANDY (3153)	unknown
+PND #04	ROSIE (3459)	MWELU (3866)
+PND #05	DELTA (3057)	C.J. (2358)
+PND #06	JUDY (2170)	unknown
+PND #07	KELLEY (2107)	unknown
+PND #08	URSULA (1719)	JOEY (3033)
+PND #09	HENRYET (2602)	MWELU (3866)
+PND #10	DERMA (1703)	unknown
+PND #11	BETSY (1856)	unknown
+PND #12	TINA (5210)	unknown
+PND #13	TINKER (4751)	unknown
+PND #14	INDIA (5276)	unknown
+PND#15	JESSIE (5905)	unknown
+POKEY	unknown	unknown
+POLLY	unknown	unknown
+POPPY	BETTY (3440)	WILLY (1767)
+PORSCHE	JUNIE (2243)	CORDOVA (2763)
+PRISSY	unknown	unknown
+Prude	unknown	unknown
+PUG	unknown	unknown
+PUNCH	JUDY (2170)	WILLY (1767)
+QUINCY	unknown	unknown
+RADAR	GERTRUDE (2201)	MOOSE (2045)
+REEUH	ANGIE (3462)	KOBI (3020)
+RERO	unknown	unknown
+RHODA	unknown	unknown
+Richie	unknown	unknown
+RICO	BIDO (1731)	unknown
+RITT	unknown	unknown
+ROCK	unknown	unknown
+ROGER	unknown	unknown
+ROMEO	unknown	unknown
+ROSALYN	unknown	unknown
+ROSIE	unknown	unknown
+ROSS	ROSALYN (2304)	unknown
+ROWDY	MARY (1855)	PERRY (1549)
+ROXANNE	ROSIE (3459)	ROGER (2246)
+RUBY	LAVERNE (2244)	unknown
+Rufus	unknown	unknown
+RUSTY	APRIL (4205)	PACER (2957)
+SABRINA	unknown	unknown
+SADIE	MARTHA (2429)	PIERRE (1844)
+SAHBA	TODY (2720)	KOBI (3020)
+SAMANTHA	unknown	unknown
+SAMMY	unknown	unknown
+SAMSON	DEBBIE (2633)	PUG (9694)
+SANDY	unknown	unknown
+SARA	ROSALYN (2304)	PUG (9694)
+SHADOW	unknown	unknown
+SHAHEE	HARRIET (unk)	SAMMY (2036)
+SHAKAL	unknown	KOBI (3020)
+Shakey	unknown	unknown
+SHANE	unknown	unknown
+SHEENA	LACEY (3915)	PERRY (1549)
+SHOHSHON	GINA (unk)	RUFUS (unk)
+SHOTZIE	JENNIFER (unk)	ALVIN (unk)
+Shushu	unknown	unknown
+SIMBA	unknown	unknown
+SIMON	unknown	unknown
+SINDEE	APRIL (4205)	GREMLIN (2601)
+SINGHA	NINA (4760)	unknown
+SISSY	SANDY (3153)	unknown
+SKEETER	unknown	unknown
+SLY	RHODA (1841)	unknown
+SOKO	DEBBIE (2633)	unknown
+SOPHIE	GIRL (9700)	GREMLIN (2601)
+SPARKY	HENRYET (2602)	MWELU (3866)
+SPIDER	MAE (2242)	GREMLIN (2601)
+SPIRO	unknown	unknown
+SPUD	ROSALYN (2304)	BOY (2039)
+STAUN	ANN (2722)	COCOA (unk)
+Stella	unknown	unknown
+STERLING	unknown	unknown
+Stu	unknown	unknown
+Sue	unknown	unknown
+SUHNA	unknown	unknown
+TABU	TOPSEY (3745)	BABU (2946)
+TAFFY	OREO (5315)	HOBBES (5659)
+TAHMIA	TUPPENCE (2719)	SIMBA (2724)
+TAMBLO	ANGIE (3462)	GERONIMO (unk)
+TANG	unknown	unknown
+TANYA	unknown	unknown
+TASHA	JANE (2830)	MOOSE (2045)
+TEX	JUDY (2170)	unknown
+TINA	BERNIE (1929)	CHICO (1716)
+TINKER	KELLEY (2107)	PERRY (1549)
+TODY	unknown	unknown
+TOHBI	SABRINA (2167)	COCOA (unk)
+TONY	LULU (4510)	CONAN (3156)
+TOPSEY	unknown	unknown
+TOTONI	DODA (4654)	KUKUI (5035)
+TRACEY	LACEY (3915)	KEVIN (9693)
+TREVOR	GILLIAN (unk)	BILLY (5957)
+TRUDY	BETTY (3440)	ZIPPY (2537)
+TULIK	TANYA (2354)	SAMMY (2036)
+TULIP	BETSY (1856)	unknown
+TUPPENCE	unknown	unknown
+URSULA	unknown	unknown
+VALERIE	unknown	unknown
+VEGA	RHODA (1841)	unknown
+VERANA	unknown	unknown
+VINCE	ALPHA (5066)	unknown
+VIOLET	HENRYET (2602)	unknown
+Walter	unknown	unknown
+WENDEL	unknown	unknown
+WHOOPI	I.D. 834	I.D. 196
+WILLY	unknown	unknown
+WOTONI	ANN (2722)	unknown
+XENA	JANA (5430)	C.J. (2358)
+YAMILLI	GERTRUDE (2201)	DALTON 1063
+ZIPPY	unknown	unknown
+ZOE	MARY (1855)	unknown
+ZORO	unknown	unknown
