@@ -8,22 +8,19 @@ d <- as.matrix(read.csv("g:/projects/meta-analysis/kinship.csv", header = TRUE))
 d <- as.data.frame(d)
 head(d)
 str(d)
-
-
 ped <- pedigree(d$Sire, d$Dam, d$Subject)
-
 
 #transforming Raw scores into single column
 
-d <- as.matrix(read.table("g:/projects/meta-analysis/collapsable.txt", header = FALSE), header = FALSE, sep="\t")
+d <- as.matrix(read.table("~/Meta-project/collapsable.txt", header = FALSE), header = FALSE, sep="\t")
 d<-matrix(d, ncol=1)
-write.table(d, "g:/projects/meta-analysis/OneColumn.txt", sep="\t")
+write.table(d, "~/Meta-project/OneColumn.txt", sep = "\t")
 str(d)
 
 #transforming Adjusted scores into single column
-d <- as.matrix(read.table("g:/projects/meta-analysis/Adjcollapsable.txt", header = FALSE), header = FALSE, sep="\t")
+d <- as.matrix(read.table("~/Meta-project/Adjcollapsable.txt", header = FALSE), header = FALSE, sep="\t")
 d<-matrix(d, ncol=1)
-write.table(d, "g:/projects/meta-analysis/OneAdjustedColumn.txt", sep="\t")
+write.table(d, "~/Meta-project/OneAdjustedColumn.txt", sep="\t")
 
 str(d)
 
